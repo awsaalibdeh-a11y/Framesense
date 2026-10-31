@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="112" fill="#0B0F17"/>
+  <rect x="36" y="36" width="440" height="440" rx="84" stroke="#1E293B" stroke-width="8"/>
+  <!-- Corner frame brackets -->
+  <path d="M116 164V116H164" stroke="#F59E0B" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M396 164V116H348" stroke="#F59E0B" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M116 348V396H164" stroke="#F59E0B" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M396 348V396H348" stroke="#F59E0B" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Play / Telemetry Vector -->
+  <path d="M214 186L334 256L214 326V186Z" fill="#F59E0B"/>
+  <circle cx="256" cy="256" r="110" stroke="#38BDF8" stroke-width="10" stroke-dasharray="28 18"/>
+</svg>

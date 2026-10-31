@@ -1,0 +1,6 @@
+{
+  "name": "FrameSense AI Gameplay Coach",
+  "description": "Cross-platform AI gameplay assistant for Desktop, Android, and iOS that analyzes gameplay clips up to 5 minutes across 128+ games to deliver timestamped coaching tips, tactical instructions, and training drills.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
